@@ -1,0 +1,4 @@
+1- creation de dossier
+cd /folder
+npm init
+installation des dépendance 
